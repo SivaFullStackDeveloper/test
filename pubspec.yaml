@@ -58,8 +58,6 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   assets:
-    - assets/labels.txt
-    - assets/mobilenet_v1_1.0_224.tflite
     - assets/car.png
 
   # The following line ensures that the Material Icons font is
